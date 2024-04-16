@@ -1,0 +1,25 @@
+Análise de Dados - Desmatamento de Biomas
+
+
+Bibliotecas:
+- pandas
+- matplotlib, seaborn, numpy
+- geobr*
+
+Objetivos:
+
+Explorar os dados fornecidos pela base de dados da PRODES mesclando com a base do Geobr para exibir os plots em mapas.
+
+Etapas:
+
+- plot mapa dos biomas do brasil
+- analise exploratória de porcentagem de desmatamento por bioma
+- plot mapa de um bioma seguido de analises de variáveis que influenciam no indice de desmatamento
+	
+*variáveis utilizando funções do geobr
+- Funções:
+	read_conservation_units
+	read_region
+	read_metro_area
+	read_biomes
+	read_indigenous_land
